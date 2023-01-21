@@ -2,6 +2,7 @@
 	import '@picocss/pico';
 	import '../app.css';
 	import MainMenu from '../components/MainMenu.svelte';
+	import Footer from '../components/Footer.svelte';
 </script>
 
 <main class="container">
@@ -9,6 +10,9 @@
 	<MainMenu />
 	
 	<slot />
+
+	<Footer />
+	
 <!-- 
 	<div class="grid">
 		<div>1</div>

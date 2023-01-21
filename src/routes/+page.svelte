@@ -2,8 +2,8 @@
 	let src = '/tianhao-wang-iEIcxy2HmKo-unsplash.jpg';
 </script>
 
-<main class="container">
-	<div class="container-fluid hero">
+<main>
+	<div class="hero">
 		<header>
 			<hgroup>
 				<h1>Front Page</h1>
