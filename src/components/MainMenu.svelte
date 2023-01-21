@@ -3,7 +3,7 @@
 <main>
 	<nav>
 		<ul>
-			<li><strong>NA Barbados</strong></li>
+			<li><strong><a href="/">NA Barbados</a></strong></li>
 		</ul>
 		<ul>
 			<li><a href="/">Home</a></li>
