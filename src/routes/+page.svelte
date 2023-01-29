@@ -23,7 +23,7 @@
 	<div class="grid">
 		<section>
 			<hgroup>
-				<h2>Ut sit amet sem ut velit</h2>
+				<h2>What Is Narcotic Anonymous</h2>
 				<h3>Quisque mi est</h3>
 			</hgroup>
 			<p>
@@ -71,7 +71,7 @@
 				/></a
 			>
 			<p>
-				<a href="#">Donec sit amet</a><br />
+				<a href="#">News Items</a><br />
 				<small>Class aptent taciti sociosqu ad litora torquent per conubia nostra</small>
 			</p>
 			<a href="#" aria-label="Example"
@@ -81,7 +81,7 @@
 				/></a
 			>
 			<p>
-				<a href="#">Suspendisse potenti</a><br />
+				<a href="#">News Item</a><br />
 				<small>Proin non condimentum tortor. Donec in feugiat sapien.</small>
 			</p>
 			<a href="#" aria-label="Example"
@@ -91,7 +91,7 @@
 				/></a
 			>
 			<p>
-				<a href="#">Nullam lobortis placerat aliquam</a><br />
+				<a href="#">News Item</a><br />
 				<small
 					>Maecenas vitae nibh blandit dolor commodo egestas vel eget neque. Praesent semper justo
 					orci, vel imperdiet mi auctor in.</small
