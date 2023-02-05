@@ -17,7 +17,7 @@
         <label for="body">Email Body</label>
         <textarea id="body" rows="5"></textarea>
 
-        <a href="#" role="button">Send</a>
-        <a href="#" role="button" class="secondary">Cancel</a>
+        <a href="/" role="button">Send</a>
+        <a href="/" role="button" class="secondary">Cancel</a>
     </form>
 </main>

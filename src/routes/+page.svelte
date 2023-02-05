@@ -64,34 +64,34 @@
 		</section>
 
 		<aside>
-			<a href="#" aria-label="Example" 
+			<a href="/" aria-label="Example" 
 				><img
 					src="/maarten-deckers-T5nXYXCf50I-unsplash-1500x750.jpg"
 					alt="Architecture"
 				/></a
 			>
 			<p>
-				<a href="#">News Items</a><br />
+				<a href="/">News Items</a><br />
 				<small>Class aptent taciti sociosqu ad litora torquent per conubia nostra</small>
 			</p>
-			<a href="#" aria-label="Example"
+			<a href="/" aria-label="Example"
 				><img
 					src="/daniel-von-appen-tb4heMa-ZRo-unsplash-1500-750.jpg"
 					alt="Architecture"
 				/></a
 			>
 			<p>
-				<a href="#">News Item</a><br />
+				<a href="/">News Item</a><br />
 				<small>Proin non condimentum tortor. Donec in feugiat sapien.</small>
 			</p>
-			<a href="#" aria-label="Example"
+			<a href="/" aria-label="Example"
 				><img
 					src="/matthew-hamilton-Ru3Ap8TNcsk-unsplash-1500-750.jpg"
 					alt="Architecture"
 				/></a
 			>
 			<p>
-				<a href="#">News Item</a><br />
+				<a href="/">News Item</a><br />
 				<small
 					>Maecenas vitae nibh blandit dolor commodo egestas vel eget neque. Praesent semper justo
 					orci, vel imperdiet mi auctor in.</small
